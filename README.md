@@ -1,2 +1,2 @@
-# Kaggle-competition
+# Kaggle Competition
 Repository for Kaggle Competition
